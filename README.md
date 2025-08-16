@@ -12,7 +12,7 @@ Este proyecto consiste en un análisis de datos utilizando **Python** y librerí
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Gabriel-      Bisson/TelecomX-2.git
+   git clone https://github.com/Gabriel-Bisson/TelecomX-2.git
    cd TelecomX-2
    ```
 
