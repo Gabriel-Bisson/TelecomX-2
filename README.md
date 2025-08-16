@@ -12,8 +12,8 @@ Este proyecto consiste en un análisis de datos utilizando **Python** y librerí
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Gabriel-Bisson/TelecomX-2/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/Gabriel-      Bisson/TelecomX-2.git
+   cd TelecomX-2
    ```
 
 2. Crear un entorno virtual (opcional, pero recomendado):
